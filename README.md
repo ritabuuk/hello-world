@@ -1,2 +1,4 @@
 # hello-world
-Hello World!  Testing and such.
+Hello World!
+
+This is just for following the initial github tutorial.
